@@ -1,0 +1,10 @@
+{
+    "title": "TÍTULO: AVISO!",
+    "message": "A Luz Principal do Home Office foi ligada",
+    "data": {
+        "subtitle": "Luz Principal do Home Office",
+        "push": {
+            "sound": "US-EN-Morgan-Freeman-Turning-On-The-Lights.wav"
+        }
+    }
+}
